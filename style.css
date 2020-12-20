@@ -26,6 +26,9 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
+.blue{
+    color: #827BFF;
+}
 
 h1{
     font-size: 40px;
