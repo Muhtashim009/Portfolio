@@ -55,5 +55,32 @@ p{
 
 
 
+.nav{
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+.contactMe, .navIcons{
+    flex: 1;
+}
+.navIcons{
+    text-align: right;
+}
+.navIcons a, .contactMe a, .contactMe img{
+    display: inline-block;
+    vertical-align: middle;
+}
+.navIcons a{
+    margin-left: 40px;
+}
+.contactMe a{
+    color: #827BFF;
+    text-decoration: none;
+}
+.contactMe img{
+    margin-right: 10px;
+}
+
+
 
 
