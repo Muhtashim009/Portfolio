@@ -197,3 +197,26 @@ ul{
 .work2 ul li{
     margin-top: 20px;
 }
+
+
+.footer{
+    background-image: url(./images//Dribbble_Blue_Large.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 320px;
+    padding-bottom: 7em;
+    text-align: center;
+}
+
+.footer a{
+    color: #027BFF;
+    text-decoration: none;
+}
+
+.underlinesmall{
+    display: block;
+    height: 3px;
+    width: 41px;
+    margin: 5px auto 0 auto;
+    background-color: #027BFF;
+}
