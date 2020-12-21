@@ -110,5 +110,16 @@ ul{
     right: 0;
     margin: auto;
 }
+.skills{
+    text-align: center;
+    margin-bottom: 20em;
+}
 
+.skills p{
+    margin-bottom: 30px;
+}
+.skills img{
+    width: 40px;
+    margin: 0 15px;
+}
 
